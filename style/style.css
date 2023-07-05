@@ -1,0 +1,11 @@
+h2{
+    background-color: aqua;
+    color: red;
+    margin-bottom: 25px;
+}
+p{
+    background-color: aqua;
+    padding: 25px;
+    border-radius: 20px;
+    border-left: 5px dotted red;
+}
